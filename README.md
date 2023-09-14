@@ -2,6 +2,8 @@
 
 The purpose of this script is to extract data from individual regions of the monthly report of construction machinery sold across the country and create individual files for each regional sales representative.
 
+The screenshot below shows an example data sheet:
+
 ![data screenshot](data_sheet_screenshot.png)
 
 The report we receive only includes voivodeships and the number of machines in a given category that have been delivered.
